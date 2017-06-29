@@ -1,6 +1,6 @@
 # PHP Style Guide
 
-В качестве стандартов оформления кода на PHP приняты стандарты от 
+В качестве стандартов оформления PHP-кода приняты стандарты от 
 [PHP Framework Interop Group](http://www.php-fig.org/):
 
 * [PSR-0: Autoloading Standard](http://www.php-fig.org/psr/psr-0/) - устарел, но мы о нём помним
