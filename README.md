@@ -1,4 +1,4 @@
-# NIX Solutions Style Guide
+# NIX Solutions Style Guides
 
 Данный репозиторий содержит правила оформления кода компании NIX Solutions
 
