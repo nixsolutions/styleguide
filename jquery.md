@@ -51,7 +51,7 @@ function makeGreen() {} // color? background? WAT?
 function loadData() {}  // data? rly?
 function error() {}     // error in your DNA
 ```
-К таким функциям возникает слишком много вопросов, сравните со следующим примером:
+К перечисленным функциям возникает слишком много вопросов, сравните со следующим примером:
 ```javascript
 // good
 function changeColorToGreen() {}
@@ -59,7 +59,7 @@ function loadJSON() {}
 function showErrorDialog() {}
 ```
 ## Именование CSS классов
-При создании классов для работы с jQuery используйте префикс `js-*`
+При создании классов для работы с JavaScript и jQuery используйте префикс `js-*`
 
 ## Callback функции
 Для упрощения чтения кода следует избегать использования анонимных функций, 
