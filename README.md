@@ -12,7 +12,7 @@
 
 ## [JavaScript](javascript.md)
 
-## [jQuery](jquery.md)
+### [jQuery](jquery.md)
 
 ## [PHP](php.md)
 
