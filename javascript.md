@@ -1,5 +1,5 @@
 # JavaScript Style Guide
-В качестве единного стандарта оформления JavaScript кода принят
+В качестве единого стандарта оформления JavaScript кода принят
 [Airbnb JavaScript Style Guide()](https://github.com/airbnb/javascript) 
 
 Для проверки форматирования используйте [ESLint](http://eslint.org/) с [Airbnb конфигом](https://github.com/airbnb/javascript).
